@@ -6,3 +6,4 @@ define('DB_PASS', '');
 
 define("APPROOT", dirname(dirname(__FILE__)));
 define("URLROOT", "http://localhost/PHP_MVC/");
+define("SITE_NAME", "CC MVC");
